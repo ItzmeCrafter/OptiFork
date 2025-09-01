@@ -15,7 +15,7 @@
 
 ## Installing
 
-After installing fabric for 1.16.3, you will need to place the OptiFabric mod jar as well as the optifine installer in the mods folder.
+After installing fabric for 1.20.5/1.20.6, you will need to place the OptiFabric mod jar as well as the optifine installer in the mods folder.
 
 Fabric Loader should be the latest version from the [Fabric Website](https://fabricmc.net/use/)
 
@@ -23,9 +23,9 @@ If you need more help you can read a more detailed guide [here](https://github.c
 
 ## Links
 
-- [OptiFabric Downloads](https://minecraft.curseforge.com/projects/optifabric)
-
-- [OptiKai Download](https://livzmc.net/optikai)
+- [Optfine Download] optifine.net
+  
+- [OptiFork Download] Check Github Action 
 
 ## Issues
 
