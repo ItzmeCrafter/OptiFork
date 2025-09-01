@@ -1,6 +1,6 @@
 # OptiFabric
 
-**This only works with OptiKai! OptiKai is a fork of OptiFine that runs on snapshots developed by me (KaiAF) with permission from sp614x!**
+**For Mobile Launcher (Like Zalith, Fold Craft, etc...) , Use LTW Renderer or MobileGlus Renderer!**
 
 **Note:** This project is not related or supported by either Fabric or OptiFine.
 
